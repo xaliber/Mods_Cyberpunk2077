@@ -1,3 +1,8 @@
+# Link to mod page
+[https://www.nexusmods.com/cyberpunk2077/mods/19084](https://www.nexusmods.com/cyberpunk2077/mods/19067)
+
+Drive-by Shotguns - Use Shotguns in Vehicle
+
 # Credits and distribution permission
 ## :heavy_check_mark: Other user's assets
 All the assets in this file belong to the author, or are from free-to-use modder's resources
