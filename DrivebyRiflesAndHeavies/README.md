@@ -1,3 +1,8 @@
+# Link to mod page
+https://www.nexusmods.com/cyberpunk2077/mods/19084
+
+Drive-by Rifles and Heavy Weapons - Use Various Guns from Vehicle
+
 # Credits and distribution permission
 ## :heavy_check_mark: Other user's assets
 All the assets in this file belong to the author, or are from free-to-use modder's resources
