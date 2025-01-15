@@ -1,0 +1,29 @@
+Items.Base_Lightmachinegun:
+  tags:
+    - !append DriverCombatBikeWeapon
+    - !append DriverCombatRangedWeapon
+    
+Items.Base_HMG:
+  tags:
+    - !append DriverCombatBikeWeapon
+    - !append DriverCombatRangedWeapon
+
+Items.Base_Assault_Rifle:
+  tags:
+    - !append DriverCombatBikeWeapon
+    - !append DriverCombatRangedWeapon
+    
+Items.Base_Precision_Rifle:
+  tags:
+    - !append DriverCombatBikeWeapon
+    - !append DriverCombatRangedWeapon
+    
+Items.Base_Sniper_Rifle:
+  tags:
+    - !append DriverCombatBikeWeapon
+    - !append DriverCombatRangedWeapon
+
+Items.Base_GrenadeLauncher:
+  tags:
+    - !append DriverCombatBikeWeapon
+    - !append DriverCombatRangedWeapon
