@@ -1,0 +1,34 @@
+Items.Preset_Satara_Default:
+  tags:
+    - !append DriverCombatBikeWeapon
+    - !append DriverCombatRangedWeapon
+    
+Items.Preset_Igla_Default:
+  tags:
+    - !append DriverCombatBikeWeapon
+    - !append DriverCombatRangedWeapon
+    
+Items.Preset_Carnage_Default:
+  tags:
+    - !append DriverCombatBikeWeapon
+    - !append DriverCombatRangedWeapon
+    
+Items.Preset_Tactician_Default:
+  tags:
+    - !append DriverCombatBikeWeapon
+    - !append DriverCombatRangedWeapon
+
+Items.Preset_Zhuo_Default:
+  tags:
+    - !append DriverCombatBikeWeapon
+    - !append DriverCombatRangedWeapon
+    
+Items.Preset_Pozhar_Default:
+  tags:
+    - !append DriverCombatBikeWeapon
+    - !append DriverCombatRangedWeapon
+    
+Items.Preset_Crusher_Default:
+  tags:
+    - !append DriverCombatBikeWeapon
+    - !append DriverCombatRangedWeapon
